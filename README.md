@@ -4,7 +4,7 @@ Large language models (LLMs) face various challenges concerning both the accurac
 
 Broadly speaking, a RAG-based architecture empowers the model by granting access to external knowledge sources that offer supplementary context to the initial input prompt. This augmented prompt is subsequently utilized to invoke the large language model, as illustrated in the following.
 
-![](images/RAGs.png)
+![](images/RAG.png)
 
 
 ### Langchain-Model-for-Question-Answering-QA
